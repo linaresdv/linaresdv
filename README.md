@@ -18,10 +18,4 @@
 
 ---
 
-
-</div>
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray_dark_ctp_left.svg" width="100%" />
