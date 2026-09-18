@@ -4,9 +4,7 @@
   <i>Software Engineering Student & Web Developer</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stevenMrt&color=9b1fd9&style=flat-square" alt="visitor count" />
-</p>
+
 
 ---
 
