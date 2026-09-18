@@ -18,19 +18,7 @@
 
 ---
 
-### ✦ Arsenal Tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### ✦ Métricas de Rendimiento
-
-<div align="center">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=stevenMrt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenMrt&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
