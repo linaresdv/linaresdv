@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="linarespanner.jfif" alt="Banner de Lina" width="100%" style="max-width: 1200px;">
+</p>
+
 <h1 align="center">✦ ── LINARES,JOJOS★ ── ✦</h1>
 
 <p align="center">
