@@ -14,9 +14,9 @@
 
 ### ✦ Sobre Mí
 
-* 💻 **Rol:** Estudiante de Desarrollo de Software con enfoque en el ecosistema web.
-* 🎯 **Aspiración:** Diseñar e implementar experiencias digitales limpias, escalables y con alto impacto visual.
-* ⚡ **Filosofía:** Precisión, evolución constante y atención al detalle.
+  **Rol:** Estudiante de Desarrollo de Software con enfoque en el ecosistema web.
+ **Aspiración:** Diseñar e implementar experiencias digitales limpias, escalables y con alto impacto visual.
+  **Filosofía:** Precisión, evolución constante y atención al detalle.
 
 ---
 ### ✦ Aprendiendo
